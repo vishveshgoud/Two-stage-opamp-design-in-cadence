@@ -34,10 +34,9 @@ purpose of increasing the gain of the amplifier
 • The problem with the actual two stage operational amplifier is that is has least phase margin 
 which is not suitable for practical applications
 An operational amplifier is said to be good if it has following specifications
-\n• High Gain and CMRR
-\n• High input impedance
-\n• Good phase margin (400 − 600)
-
+ 1) High Gain and CMRR
+ 2) High input impedance
+ 3) Good phase margin (400 − 600)
 # BASIC CIRCUITS USED
 
 
