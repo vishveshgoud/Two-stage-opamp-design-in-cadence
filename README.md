@@ -78,7 +78,9 @@ An operational amplifier is said to be good if it has following specifications
 
 # PROPOSED TECHNIQUE
 
-![image](https://github.com/vishveshgoud/Two-stage-opamp-design-in-cadence/assets/147975068/bf2a6ad7-69fc-4683-9208-3094e8225021)
+
+![image](https://github.com/vishveshgoud/Two-stage-opamp-design-in-cadence/assets/147975068/646495a8-f98b-4627-861b-87659b185b78)
+
 
 MILLER EFFECT:
 
@@ -160,7 +162,7 @@ CMRR in dB = 74.8dB
 
 The two stage operational amplifier was simulated in cadence with gpdk90nm technology.
 After simulating the proposed circuit we have got high gain of 
-61dB with several other good parameters. CMRR of   75dB  . the response of the circuit is very high as a result its gets an edge over other circuits and the CMRR with the proposed technique increases its value. 
+61dB with several other good parameters. CMRR of   75dB .
 
 
 
